@@ -1,10 +1,5 @@
 # Example Repository
-this is a simple repo, hello Coders! 
-
-This is a second change, we have to do it.
-This is a second change, we have to do it.
-This is a second change, we have to do it.
-This is a second change, we have to do it.
+this is a simple repo, hello Coders!  
 
 I have learnt git:
 -clone
@@ -13,3 +8,5 @@ I have learnt git:
 - commit
 -push
 -diff
+
+--------------
