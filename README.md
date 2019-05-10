@@ -1,12 +1,6 @@
 # Example Repository
 
-ooooooooooooooooooooooooooooooooooooooooooooooooooo
-ppppppppppppppppppppppppppppppppppppppppppppppppp
-llllllllllllllllllllllllllllllllllllllllllll
-jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-
+PLEASE DO NOT INCLUDED WORDS WHICH DOES NOT CONTAIN ANY MEANING
 
 
 
